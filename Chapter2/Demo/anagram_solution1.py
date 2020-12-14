@@ -1,4 +1,4 @@
-#anagram solution 1
+#anagram solution 1 checking off
 def anagram_solution1(s1, s2):
     a_list = list(s2)
 
