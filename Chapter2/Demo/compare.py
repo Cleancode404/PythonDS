@@ -1,4 +1,6 @@
+
 import timeit
+
 import random
 
 for i in range(1000, 1000001, 20000):
