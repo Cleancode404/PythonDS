@@ -18,3 +18,5 @@ def base_converter(dec_number, base):
 
 print(base_converter(25, 2))
 print(base_converter(25, 16))
+print(base_converter(25, 10))
+print(base_converter(26, 26))
