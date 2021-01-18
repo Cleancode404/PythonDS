@@ -8,4 +8,6 @@ def bubble_sort(alist):
                 alist[i + 1] = temp
 
 alist = [54, 26, 93, 17, 77, 31, 44, 55, 20]
-print(bubble_sort(alist))
+bubble_sort(alist)
+print(alist)
+
