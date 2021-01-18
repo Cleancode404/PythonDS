@@ -1,4 +1,5 @@
 #classic binary search
+#will not work if dataset is not in order
 
 def binary_search(alist, item):
     first = 0
