@@ -1,8 +1,8 @@
-my_tree = ['a', #root
+my_tree = ['a', #root 
 ['b', #left subtree 
 ['d' [], []], 
 ['e'[ ], []] ], 
-['c', #right subtree
+['c', #right subtree 
 ['f' [], []]
 [] ]
 ]
